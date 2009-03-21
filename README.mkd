@@ -1,0 +1,6 @@
+Emacs Nightly Build
+===================
+
+This script will produce a nightly build of Cocoa Emacs from CVS. It's used to create the nightly builds hosted at [http://atomized.org/cocoa-emacs-nightly/](atomized.org).
+
+ - Ian Eure <ian.dot.eure-a@t-gmail.com>
