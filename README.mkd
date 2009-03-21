@@ -1,6 +1,6 @@
 Emacs Nightly Build
 ===================
 
-This script will produce a nightly build of Cocoa Emacs from CVS. It's used to create the nightly builds hosted at [http://atomized.org/wp-content/cocoa-emacs-nightly/](atomized.org).
+This script will produce a nightly build of Cocoa Emacs from CVS. It's used to create the nightly builds hosted at [atomized.org](http://atomized.org/wp-content/cocoa-emacs-nightly/).
 
  - Ian Eure <ian.dot.eure-a@t-gmail.com>
