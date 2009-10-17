@@ -1,5 +1,5 @@
-Emacs Nightly Build
-===================
+Emacs Nightly Build Script
+==========================
 
 This script will produce a nightly build of Cocoa Emacs from Git. It's used to create the nightly builds hosted at [atomized.org](http://atomized.org/wp-content/cocoa-emacs-nightly/).
 
@@ -9,4 +9,4 @@ If you want to use it, you have two options.
 2. Edit the script to change into your Emacs source directory.
 
 
- - Ian Eure <ian.dot.eure-a@t-gmail.com>
+ -- Ian Eure <ian.dot.eure-a@t-gmail.com>
