@@ -8,4 +8,5 @@ If you want to use it, you have two options.
 1. Clone the [official repo](http://savannah.gnu.org/git/?group=emacs), create a local branch, and commit the script there.
 2. Edit the script to change into your Emacs source directory.
 
+
  - Ian Eure <ian.dot.eure-a@t-gmail.com>
